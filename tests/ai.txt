@@ -1,0 +1,99 @@
+# Job Title: AI Engineer / Full-Stack Developer – E-commerce Automation & AI Agents
+
+**Job Type:** Freelance / Contract  
+**Project Category:** AI Engineering, Software Development, API Integration, Workflow Automation
+
+## Project Overview
+
+I am looking for a technically strong AI Engineer or Full-Stack Developer to design and implement an AI-driven e-commerce infrastructure supporting two business models:
+
+- **D2C Clothing Brand:** Egypt-focused e-commerce, product catalog management, inventory, order processing, and customer engagement.
+- **Cross-Border Dropshipping:** US-focused e-commerce with China-based suppliers, automated fulfillment workflows, shipment tracking, and customer support.
+
+The objective is to build a modular, API-driven system that reduces manual operations through AI agents, event-driven automation, and centralized monitoring.
+
+This is a software engineering project, not simply a Shopify store setup. I am interested in someone who can architect, develop, integrate, test, and document working systems.
+
+## Technical Scope
+
+### 1. AI Agents & LLM Integration
+- Develop AI-powered agents for customer support, product information, order-status inquiries, and internal operational assistance.
+- Integrate LLM APIs with structured outputs, tool calling, and context-aware responses.
+- Implement retrieval-augmented generation (RAG) where appropriate for product catalogs, policies, and FAQs.
+- Add human-in-the-loop approval for refunds, order cancellations, and other sensitive actions.
+- Evaluate response quality, latency, token usage, and API costs.
+
+### 2. Backend Engineering & API Integrations
+- Build backend services using Python (FastAPI) or Node.js/TypeScript.
+- Integrate Shopify Admin APIs and webhooks for products, orders, inventory, and fulfillment.
+- Implement webhook validation, idempotency, retry handling, logging, and error recovery.
+- Integrate external supplier, shipping, and tracking APIs where available.
+- Design clean, documented REST APIs and modular service components.
+
+### 3. Workflow Automation & Event-Driven Systems
+- Build workflows using n8n, Make, or custom Python/Node.js services.
+- Automate order notifications, fulfillment updates, inventory synchronization, and customer communications.
+- Use event-driven architecture where appropriate.
+- Implement scheduled jobs, queue-based processing, failure alerts, and workflow monitoring.
+
+### 4. Data Engineering & Analytics
+- Design data models for products, orders, customers, suppliers, and operational events.
+- Use PostgreSQL or another appropriate database.
+- Build dashboards for sales, fulfillment performance, customer support, and automation health.
+- Track conversion metrics, order-processing failures, delivery performance, and operating costs.
+
+### 5. Infrastructure & DevOps
+- Deploy services using Docker and a suitable cloud platform.
+- Implement environment-based configuration and secure secrets management.
+- Set up CI/CD, structured logs, monitoring, backups, and basic automated tests.
+- Apply least-privilege access controls and document deployment and recovery procedures.
+
+## Preferred Technology Stack
+
+- **Languages:** Python, TypeScript/JavaScript, SQL
+- **Backend:** FastAPI, Node.js
+- **AI:** LLM APIs, tool calling, embeddings, RAG
+- **Automation:** n8n, Make, webhooks
+- **Database:** PostgreSQL
+- **Infrastructure:** Docker, Git, cloud deployment, CI/CD
+- **Commerce:** Shopify APIs, OAuth, webhook integrations
+- **Monitoring:** Structured logging, error tracking, operational dashboards
+
+Candidates may propose a different stack if they can justify the technical and financial benefits.
+
+## Initial Milestones
+
+**Milestone 1 — Architecture:** System design, integration map, security model, and implementation plan.
+
+**Milestone 2 — Core Integration:** Connect a Shopify development store to a backend service using APIs and validated webhooks.
+
+**Milestone 3 — AI Workflow:** Implement one AI-powered customer-support workflow with controlled access to approved business data.
+
+**Milestone 4 — Operations Automation:** Demonstrate order-event processing, status updates, retries, and failure handling.
+
+**Milestone 5 — Deployment & Documentation:** Deliver tested code, setup instructions, architecture documentation, and cost estimates.
+
+## Required Qualifications
+
+- Demonstrable experience building backend applications and integrating third-party APIs.
+- Practical experience with LLM APIs and production-oriented AI workflows.
+- Understanding of authentication, webhooks, databases, asynchronous processing, and error handling.
+- Familiarity with Git, testing, deployment, and secure software development.
+- Ability to explain architectural decisions and deliver maintainable code.
+
+Experience with agent frameworks, RAG pipelines, vector databases, and multi-agent orchestration is a plus—but reliable engineering is more important than using fashionable frameworks.
+
+## Application Requirements
+
+Please submit:
+
+1. GitHub portfolio or relevant technical projects.
+2. A short explanation of a comparable system you have built.
+3. Your proposed architecture and technology stack.
+4. Estimated timeline and fixed price for Milestone 1 and the initial prototype.
+5. Expected infrastructure and API costs.
+6. Testing, documentation, and post-delivery support details.
+
+**Security & ownership:** All repositories, cloud resources, API accounts, domains, and commerce stores will remain under my ownership. Access will follow least-privilege principles. No production deployment, paid resource provisioning, or external spending without explicit approval.
+
+**Success criterion:** A working, testable, documented prototype—not just a proposal, a collection of AI prompts, or a no-code demo.
